@@ -1,0 +1,3 @@
+adding this line 0nly in feature_1 branch >>file1.txt
+
+echo adding this line 0nly in feature_1 branch
